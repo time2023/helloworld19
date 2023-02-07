@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092</title>
-<meta property="og:title" content="Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092"/>
+<meta property="og:title" content="SOLOMON MILLS"/>
 <meta name="twitter:title" content="Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092"/>
 <meta name="og:image:alt" content="Live preview for Webion - Minimal Elementor Multipurpose WordPress Theme #68092"/>
       <meta name="robots" content="noindex,nofollow">
